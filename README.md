@@ -3,6 +3,10 @@
 2. My codes are in the branch xywei.
 
 
-# branch xywei
-## Demo01 
+# Branch xywei
+## Demo01-ListGroup
+### 功能说明  
+1. 安装使用bootstrap。
+2. 使用列表功能，点击列表，实现获取被点击的值以及高亮当前。
+
 
