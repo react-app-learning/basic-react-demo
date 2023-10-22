@@ -1,5 +1,5 @@
 # Digest
-1. Demo for learning React。
+1. Demo for learning React.
 2. My codes are in the branch xywei.
 
 
@@ -8,11 +8,11 @@
 ### 功能说明  
 1. 安装使用bootstrap。
 2. 使用列表功能，点击列表，实现获取被点击的值以及高亮当前。
-3. 已完成
+3. 已完成。
 
 ## Demo2
 ### 功能说明
-1. 组件传递数据
+1. 组件传递数据。
 2. 点击按钮显示dismiss，同时按钮发生变化。
 
 
